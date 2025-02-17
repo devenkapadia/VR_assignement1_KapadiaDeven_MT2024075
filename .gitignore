@@ -1,0 +1,27 @@
+# Ignore Python cache files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Ignore virtual environment
+ass1/
+
+# Ignore system-specific files
+.DS_Store
+Thumbs.db
+
+# Ignore logs and temporary files
+*.log
+*.tmp
+
+# Ignore image outputs
+panorama.jpg
+
+# Ignore dependencies
+requirements.txt
+
+# Ignore environment configuration files
+.env
+.vscode/
+.idea/
