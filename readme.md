@@ -18,13 +18,16 @@ image containing scattered Indian coins.
 ### Results & Observations  
 - Successfully detected coins in the image.  
 - The use of Gaussian Blur improved segmentation.  
-- Some small false detections may occur due to image noise.  
+- Some small false detections may occur due to image noise. 
+ 
 
 ### Visual Outputs  
 - Original Image  
 - Processed Image with Contours  
 - Thresholded Binary Image  
 - Sure Foreground Extraction  
+
+![alt text](image.png)
 
 ### How to Run  
 1. Install dependencies:  
@@ -60,6 +63,8 @@ Part 2: Create a stitched panorama from multiple overlapping images.
 - Feature Matches Between Images  
 - Stitched Panorama Image  
 - Cropped Final Output  
+
+![alt text](image-1.png)
 
 ### How to Run  
 1. Install dependencies:  
